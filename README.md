@@ -2,9 +2,9 @@ This project demonstrates how to use Scikit-learn's _Pipeline_ , _CountVectorize
 
 This program will perform the following steps:
 
-*Load the Emotion dataset into a Pandas DataFrame.
-*Remove stop words.
-*Split the dataset into a training set and a validation set.
-*Define a Scikit-learn Pipeline that consists of a CountVectorizer transformer and a LogisticRegression estimator.
-*Train the pipeline on the training data.
-*Evaluate the performance of the pipeline on the validation data.
+* Load the Emotion dataset into a Pandas DataFrame.
+* Remove stop words.
+* Split the dataset into a training set and a validation set.
+* Define a Scikit-learn Pipeline that consists of a CountVectorizer transformer and a LogisticRegression estimator.
+* Train the pipeline on the training data.
+* Evaluate the performance of the pipeline on the validation data.
